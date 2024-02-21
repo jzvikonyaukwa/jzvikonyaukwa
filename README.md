@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java SE 21, Oracle Cloud Archirecture**
 
-- 👯 I’m looking to collaborate on **with other Software Engineers**
+- 👯 I’m looking to collaborate **with other Software Engineers**
 
 - 💬 Ask me about **Java,Python,C#**
 
