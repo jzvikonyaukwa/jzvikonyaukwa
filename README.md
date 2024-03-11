@@ -23,6 +23,9 @@
 - [ChatGPT Discord Bot](https://github.com/jzvikonyaukwa/AI-Discord-Bot)
 - [3-tier-architecture-with-terraform](https://github.com/jzvikonyaukwa/3-tier-architecture-iac)
 
+#### 🎗 Community-driven
+
+- [Design Patterns repo (IN PROGRESS)](https://github.com/jzvikonyaukwa/Design_Patterns)
 
 ### 📖 Personal learning
   
