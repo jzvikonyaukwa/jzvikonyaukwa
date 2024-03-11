@@ -19,6 +19,7 @@
 
 ### 🛠 Recent Projects
 
+- [Project PayX](https://github.com/jzvikonyaukwa/AI-Discord-Bot)
 - [ChatGPT Discord Bot](https://github.com/jzvikonyaukwa/AI-Discord-Bot)
 - [3-tier-architecture-with-terraform](https://github.com/jzvikonyaukwa/3-tier-architecture-iac)
 
@@ -27,8 +28,12 @@
   
 - [Ansible Learning](https://github.com/jzvikonyaukwa/ansible-beginner-project)
 - [DevOps Pipeline Project](https://github.com/jzvikonyaukwa/docker-build)
-- [Oracle_Cloud_Architecture](https://github.com/jzvikonyaukwa/oracle_cloud_architecture)
+- [Oracle Cloud Architecture](https://github.com/jzvikonyaukwa/oracle_cloud_architecture)
 
+### 🖋 Medium Articles
+- [A guide to passing the Java SE11 Developer certification  in 40 days](https://github.com/jzvikonyaukwa/ansible-beginner-project)
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jotham-zvikonyaukwa-3a038b1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jotham-zvikonyaukwa-3a038b1b7" height="30" width="40" /></a>
