@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jzvikonyaukwa&label=Profile%20views&color=0e75b6&style=flat" alt="jzvikonyaukwa" /> </p>
 
-- 🔭 I’m currently working on **3DES**
+- 🔭 I’m currently working on **Scalling Java Application**
 
 - 🌱 I’m currently learning **Java SE 21, Oracle Cloud Archirecture**
 
 - 👯 I’m looking to collaborate **with other Software Engineers**
 
-- 💬 Ask me about **Java,Python,C#**
+- 💬 Ask me about **Java,Python,C#,PHP**
 
 - 📫 How to reach me **jotham.zvikonya@gmail.com**
 
@@ -33,7 +33,7 @@
 - [DevOps Pipeline Project](https://github.com/jzvikonyaukwa/docker-build)
 - [Oracle Cloud Architecture](https://github.com/jzvikonyaukwa/oracle_cloud_architecture)
 
-### 📖 Medium Articles l found Interest
+### 🧐 Medium Articles l found Interest
 - [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b)
 - [The Great Re-shard: adding Postgres capacity (again) with zero downtime](https://www.notion.so/blog/the-great-re-shard)
 - [Transforming CRM DevOps at Airbnb: A Powerful Framework for Continuous Delivery](https://medium.com/airbnb-engineering/transforming-crm-devops-at-airbnb-a-powerful-framework-for-continuous-delivery-c84a9c18032e)
