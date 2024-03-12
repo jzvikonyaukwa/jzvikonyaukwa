@@ -33,8 +33,14 @@
 - [DevOps Pipeline Project](https://github.com/jzvikonyaukwa/docker-build)
 - [Oracle Cloud Architecture](https://github.com/jzvikonyaukwa/oracle_cloud_architecture)
 
-### 🖋 Medium Articles
-- [A guide to passing the Java SE11 Developer certification  in 40 days](https://github.com/jzvikonyaukwa/ansible-beginner-project)
+### 📖 Medium Articles l found Interest
+- [Bending pause times to your will with Generational ZGC](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b)
+- [The Great Re-shard: adding Postgres capacity (again) with zero downtime](https://www.notion.so/blog/the-great-re-shard)
+- [Transforming CRM DevOps at Airbnb: A Powerful Framework for Continuous Delivery](https://medium.com/airbnb-engineering/transforming-crm-devops-at-airbnb-a-powerful-framework-for-continuous-delivery-c84a9c18032e)
+- [Building Scalable, Real-Time Chat to Improve Customer Experience](https://www.uber.com/en-IN/blog/building-scalable-real-time-chat/?uclick_id=a5037760-4eb3-482a-b195-38e1f24bf447)
+
+
+
 
   
 <h3 align="left">Connect with me:</h3>
