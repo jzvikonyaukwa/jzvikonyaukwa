@@ -39,6 +39,8 @@
 - [The Great Re-shard: adding Postgres capacity (again) with zero downtime](https://www.notion.so/blog/the-great-re-shard)
 - [Transforming CRM DevOps at Airbnb: A Powerful Framework for Continuous Delivery](https://medium.com/airbnb-engineering/transforming-crm-devops-at-airbnb-a-powerful-framework-for-continuous-delivery-c84a9c18032e)
 - [Building Scalable, Real-Time Chat to Improve Customer Experience](https://www.uber.com/en-IN/blog/building-scalable-real-time-chat/?uclick_id=a5037760-4eb3-482a-b195-38e1f24bf447)
+- [Kafka Offset with Spring Boot](https://piotrminkowski.com/2024/03/11/kafka-offset-with-spring-boot/)
+
 
 ### 🖊️ Medium Articles
 - [Preparation for exam: Java SE 17 Developer](https://github.com/jzvikonyaukwa/1Z0-829-preparation)
