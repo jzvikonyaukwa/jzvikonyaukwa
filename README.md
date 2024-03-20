@@ -45,7 +45,7 @@
 
 ### 🖊️ Medium Articles
 - [Preparation for exam: Java SE 17 Developer](https://github.com/jzvikonyaukwa/1Z0-829-preparation)
-
+- [Exploring the Evolution: From Java 17 to Java 22](https://github.com/jzvikonyaukwa/Java17-Java22-preparation)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
