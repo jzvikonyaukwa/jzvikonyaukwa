@@ -41,6 +41,7 @@
 - [Building Scalable, Real-Time Chat to Improve Customer Experience](https://www.uber.com/en-IN/blog/building-scalable-real-time-chat/?uclick_id=a5037760-4eb3-482a-b195-38e1f24bf447)
 - [Kafka Offset with Spring Boot](https://piotrminkowski.com/2024/03/11/kafka-offset-with-spring-boot/)
 - [The Impact of AI on Developers](https://medium.com/@ravi9376/the-impact-of-ai-on-developers-38867b44e617)
+- [System Design Newsletter](https://newsletter.systemdesign.one/p/tinder-architecture)
 
 
 ### 🖊️ Medium Articles
