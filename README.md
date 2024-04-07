@@ -27,6 +27,8 @@
 #### 🎗 Community-driven
 
 - [Design Patterns repo (IN PROGRESS)](https://github.com/jzvikonyaukwa/Design_Patterns)
+- [Preparation for exam: Java SE 17 Developer](https://github.com/jzvikonyaukwa/1Z0-829-preparation)
+- [Exploring the Evolution: From Java 17 to Java 22 (IN PROGRESS)](https://github.com/jzvikonyaukwa/Java17-Java22-preparation)
 
 ### 📖 Personal learning
   
@@ -45,9 +47,9 @@
 
 
 ### 🖊️ Medium Articles
-- [Preparation for exam: Java SE 17 Developer](https://github.com/jzvikonyaukwa/1Z0-829-preparation)
-- [Exploring the Evolution: From Java 17 to Java 22 (IN PROGRESS)](https://github.com/jzvikonyaukwa/Java17-Java22-preparation)
+
 - [Java’s Evolution in Anticipation of the AI Era](https://medium.com/@jotham.zvikonya/javas-evolution-in-anticipation-of-the-ai-era-9af37cd47c54)
+- [Unlocking the Power of Reflection API in Java: An Indispensable Tool for Modern Development](https://medium.com/@jotham.zvikonya/unlocking-the-power-of-reflection-api-in-java-an-indispensable-tool-for-modern-development-9d793e7384d5)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
