@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏿, I'm Jotham Zvikonyaukwa</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jzvikonyaukwa&label=Profile%20views&color=0e75b6&style=flat" alt="jzvikonyaukwa" /> </p>
 
-<h3 align="center" style ="font-family:monospace,serif">As a Software Engineer and DevOps enthusiast, I’m passionate about sharing knowledge and solving problems. I love being part of the tech community and helping others learn and grow. Through my writing, I share my journey in technology, encouraging others to join in the ongoing adventure of innovation and learning.</h3>
+<h3 align="center" style ="font-family:monospace,serif">Just a tech enthusiast striving to streamline my developer workflow, create efficient and high-performance projects, dive deep into memory management, and craft software that truly stands out. I’m passionate about sharing what I learn along the way, helping others grow, and being a part of the ever-evolving tech community.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 
