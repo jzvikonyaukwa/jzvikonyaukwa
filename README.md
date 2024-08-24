@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate **with other Software Engineers**
 
-- 💬 Ask me about **Java,NestJS,Python, Learning R**
+- 💬 Ask me about **Java, NestJS, Python**
 
 - 📫 How to reach me **jotham.zvikonya@gmail.com**
 
