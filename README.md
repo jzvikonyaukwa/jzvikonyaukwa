@@ -18,11 +18,11 @@
 - ⚡ Fun fact **Java’s Birthday — May 23, 1995**
 
 
-### 🛠 Recent Projects
+### 🛠 Machine Learning Projects
 
-- [Project PayX](https://github.com/jzvikonyaukwa/AI-Discord-Bot)
-- [ChatGPT Discord Bot](https://github.com/jzvikonyaukwa/AI-Discord-Bot)
-- [3-tier-architecture-with-terraform](https://github.com/jzvikonyaukwa/3-tier-architecture-iac)
+- [Intrusion Detection](https://github.com/jzvikonyaukwa/IntrusionDetection_CICIDS2018)
+- [Tomato Disease Detection](https://github.com/jzvikonyaukwa/tomato_disease_detection)
+- [Facial Emotional Recognition](https://github.com/jzvikonyaukwa/facial_emotional_recognition)
 
 #### 🎗 Community-driven
 
