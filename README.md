@@ -5,13 +5,13 @@
 <img align="right" alt="Coding" width ="400" src ="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 
-- 🔭 I’m currently working on **Scaling Java Application**
+- 🔭 I’m currently working on **Improving Machine Learning Model Accuracy**
 
-- 🌱 I’m currently learning **Java SE 21, Oracle Cloud Archirecture**
+- 🌱 I’m currently learning **Machine Learning Specialization**
 
 - 👯 I’m looking to collaborate **with other Software Engineers**
 
-- 💬 Ask me about **Java, NestJS, Python**
+- 💬 Ask me about **Java, NestJS, Python, R**
 
 - 📫 How to reach me **jotham.zvikonya@gmail.com**
 
