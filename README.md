@@ -50,6 +50,8 @@
 
 - [Java’s Evolution in Anticipation of the AI Era](https://medium.com/@jotham.zvikonya/javas-evolution-in-anticipation-of-the-ai-era-9af37cd47c54)
 - [Unlocking the Power of Reflection API in Java: An Indispensable Tool for Modern Development](https://medium.com/@jotham.zvikonya/unlocking-the-power-of-reflection-api-in-java-an-indispensable-tool-for-modern-development-9d793e7384d5)
+- [From Zimbabwe to Amazon: What 6 Years of Java Engineering Taught Me - Jotham Zvikonyaukwa](https://medium.com/@jotham.zvikonya/from-zimbabwe-to-amazon-what-6-years-of-java-engineering-taught-me-16ec3e2142cf)
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
